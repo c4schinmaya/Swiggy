@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.parcel-catch
+.env
+.DS_Store
