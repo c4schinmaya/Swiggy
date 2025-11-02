@@ -29,7 +29,7 @@
 117C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib134064782283777076 1
 99C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\lucide-react\dist\esm\icons\align-justify.js134064782224785141 0
 71C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\argparse\LICENSE134064782216135418 0
-54C:\Users\puspa\Desktop\NEXUS\React\Swiggy\package.json134064783348061282 0
+54C:\Users\puspa\Desktop\NEXUS\React\Swiggy\package.json134065330155393035 0
 85C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\node-addon-api\tools\README.md134064782223612942 0
 87C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\redux\dist\redux.browser.mjs.map134064782219975201 0
 95C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\lucide-react\dist\esm\icons\slack.js.map134064782260755938 0
@@ -37,7 +37,7 @@
 110C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\@reduxjs\toolkit\src\query\defaultSerializeQueryArgs.ts134064782235278156 0
 92C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\lucide-react\dist\esm\icons\tablet.js134064782240756637 0
 108C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\@reduxjs\toolkit\src\entities\sorted_state_adapter.ts134064782236552585 0
-52C:\Users\puspa\Desktop\NEXUS\React\Swiggy\.gitignore134064763036877127 0
+52C:\Users\puspa\Desktop\NEXUS\React\Swiggy\.gitignore134064994989668129 0
 98C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\@parcel\core\test\fixtures\config\subfolder134064782295621826 1
 95C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\lucide-react\dist\esm\icons\ice-cream.js134064782233030992 0
 82C:\Users\puspa\Desktop\NEXUS\React\Swiggy\node_modules\supports-color\package.json134064782217274577 0

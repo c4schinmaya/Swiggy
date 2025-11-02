@@ -1,11 +1,9 @@
 {
   "name": "day19",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-  "start": "parcel src/index.html",
-  "build": "parcel build src/index.html --dist-dir dist"
-},
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
